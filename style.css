@@ -1,0 +1,47 @@
+
+body {
+  margin: 0;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 16px;
+  line-height: 1.5;
+
+  background: #000;
+  background-image: 
+    linear-gradient(to right, rgba(0,0,0,0), rgba(0,0,0,1) 375px),
+    url("https://get.pxhere.com/photo/grungy-black-and-white-architecture-structure-plant-sky-white-street-retro-house-steam-interior-window-building-old-urban-wall-steel-shack-environment-construction-equipment-scenery-broken-metal-brown-facade-gray-industrial-abandoned-factory-dirty-grunge-rough-empty-exterior-industry-decay-black-monochrome-weathered-textured-manufacturing-outdoors-chrome-messy-pipes-stairs-derelict-rusty-rusted-garbage-shape-metallic-aged-corrosion-obsolete-old-factory-unhygienic-duct-urban-area-rusty-wall-metallic-shack-monochrome-photography-570495.jpg");
+  background-repeat: repeat-y;
+  background-position: left top;
+  background-size: 400px auto;
+  
+  color: #999;
+  text-transform: lowercase;}
+
+.page-wrapper{
+  max-width: 700px;
+  margin: 40px 40px 40px 420px;
+  padding: 40px 30px;}
+
+.intro,
+.supporting {
+  border: 1px solid #222;
+  background: rgba(255, 255, 255, 0.04);
+  padding: 20px;
+  margin-bottom: 20px;}
+  
+img {
+  max-width: 100%;
+  border: 1px solid #333;
+  margin-top: 10px;}
+
+h1 { margin: 0 0 6px 0; font-size: 34px; color: #eee; }
+h2 { margin: 0 0 18px 0; font-size: 16px; color: #aaa; font-weight: normal; }
+h3 { margin: 0 0 4px 0; font-size: 18px; color: #ddd; }
+p {margin: 2px 0 14px 0;}
+
+p:hover {
+	color: #aaa;
+	background: transparent;}
+
+p:hover a {
+	color: #fff;
+	background: transparent;}
