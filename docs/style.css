@@ -28,16 +28,14 @@ body {
   border: 1px solid #444;}
 
 .directory a {
-  color: #7e8cca;
-  text-decoration: none;
-}
+  color: #d8dcef;
+  text-decoration: underline;}
 
 .directory a:hover {
-  color: #795ea4;
-}
+  color: #58718e;}
 
 .page-wrapper{
-  max-width: 700px;
+  max-width: fit-content;
   margin: 0 40px 40px 420px;
   padding: 40px 30px;}
 
