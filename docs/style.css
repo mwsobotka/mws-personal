@@ -25,9 +25,16 @@ body {
   padding: 20px;
 
   background: rgba(0, 0, 0, 0.75);
-  border: 1px solid #444;
+  border: 1px solid #444;}
 
-color: aliceblue;}
+.directory a {
+  color: #7e8cca;
+  text-decoration: none;
+}
+
+.directory a:hover {
+  color: #795ea4;
+}
 
 .page-wrapper{
   max-width: 700px;
