@@ -16,6 +16,17 @@ body {
   color: #999;
   text-transform: lowercase;}
 
+.directory {
+  position: fixed;          
+  top: 120px;               
+  left: 40px;              
+
+  background: rgba(0, 0, 0, 0.75);
+  border: 1px solid #444;
+  padding: 20px;
+
+  color: #ccc;}
+   
 .page-wrapper{
   max-width: 700px;
   margin: 40px 40px 40px 420px;
