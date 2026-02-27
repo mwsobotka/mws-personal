@@ -30,8 +30,8 @@ color: aliceblue;}
 
 .page-wrapper{
   max-width: 700px;
-  margin: 40px 40px 40px 420px;
-  padding: 30px;}
+  margin: 0 40px 40px 420px;
+  padding: 40px 30px;}
 
 .intro,
 .supporting {
